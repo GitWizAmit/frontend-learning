@@ -1,0 +1,5 @@
+<!DOCTYPE html>: Declares that the document is an HTML5 document.
+<html>: The root element that wraps all HTML content.
+<head>: Contains meta-information like the document’s title.
+<title>: Defines the title displayed in the browser tab.
+<body>: Contains the content that will be displayed on the webpage, including headings, paragraphs, images, links, etc.
